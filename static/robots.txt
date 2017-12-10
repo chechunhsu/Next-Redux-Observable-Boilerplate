@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /card
+Disallow: /channel
+Disallow: /friend
+Disallow: /notification
+Disallow: /user
+
+Sitemap: https://dpick.com/sitemaps/index.xml

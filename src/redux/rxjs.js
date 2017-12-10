@@ -1,0 +1,6 @@
+import 'rxjs/add/observable/dom/ajax'
+import 'rxjs/add/observable/of'
+import 'rxjs/add/operator/catch'
+import 'rxjs/add/operator/exhaustMap'
+import 'rxjs/add/operator/filter'
+import 'rxjs/add/operator/map'
